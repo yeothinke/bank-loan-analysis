@@ -10,10 +10,14 @@ The dataset consists of a table with 24 columns and 38576 rows.
 - **Loan Yield**: The average interest rate a bank earns on the loans it has issued to borrowers, expressed as a percentage of the total amount of loans.
 - **Loan Default Rate**: Percentage of loans where borrowers fail to make payments.
 
-#### Signup Rate
-- Across campaign categories, Health for All campaigns had the best-performing signup rate (2.9%) and the second-highest number of signups (3.5K).
-- This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%).
-- Interestingly, the category with the highest number of signups - #HealthyLiving - had a comparably low signup rate at 0.3%.
+#### Number of Applications
+- Overall, we observe that the number of loans issued has increased steadily from January to December by 85%.
+- This steady increase indicates higher demand for credit, which can be good by increasing bank profits and driving economic activity. However, it's only truly beneficial if the bank manages risk effectively to prevent a rise in non-performing loans, which may affect its profitability.
+- The loan purpose category with the highest total application across all months is debt consolidation.
+
+#### Loan Yield
+- Based on the total amount of loans the bank has issued and the amount of payment received in 2021, the loan yield is calculated to be 8.5%.
+- This amount is likely to be higher as the loan term for the loans is 36 or 60 months, therefore some of the loans have not been fully paid off yet.
 
 ## Recommendations
 - **Health for All**: Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
