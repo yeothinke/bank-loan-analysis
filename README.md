@@ -47,6 +47,8 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/v
 This dashboard consists of a two layer structure:
 - The main dashboard consists of an overview of the performance of the loan portfolio for the loans issued in 2021, including key metrics such as loan application growth rate, loan yield, and charge-off rate. There is a monthly trend chart whereby user can filter by the total loan applications, total loan amount and total repayment amount to visualise the trend in terms of loan demand and loan revenue. 
 
+<img width="812" alt="image" src="Screenshot 2025-09-07 at 9.18.49 PM.png">
+
 - The second dashboard focuses on loan segmentation, allowing users to examines the loan and borrower background in more details whereby user can filter by the different loan status.
 
-<img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/86756aa4-a0d8-44eb-a0d5-c128816f42ac">
+<img width="812" alt="image" src="Screenshot 2025-09-07 at 9.19.46 PM.png">
