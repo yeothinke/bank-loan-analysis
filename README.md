@@ -32,8 +32,10 @@ The dataset consists of a table with 24 columns and 38576 rows.
 - To reduce the high charge-off rate, the bank can consider tightening credit standards by implementing stricter debt-to-income (DTI) ratios.
 - As seen from the dashboard, only 25.3% of the borrowers are source verified, while 32% are verified and 42.7% are not verified. This means that the information provided by borrower could be false. Borrowers could inflate thier annual income or provide inaccurate employment status in order to increase the probability of their loan getting approved. This could lead to a higher risk of loan default if the borrower does not actually have the financial means to repay their loans. This poses a greater risk for the bank, therefore there is a need to enhance their borrower verification to tackle the high charge-off rate.
 - The bank could also consider using additional data such as utility and rent payment histories, and bank account transaction data to assess thin-file borrower.
+  
 **Strengthen Debt Collections & Recovery**:
 - The bank can strengthen outreach and engagement with borrowers by contacting borrowers at first signs of stress, not just after default. The bank can also consider restructuring the loan such as loan modifications, or extended terms to reduce charge-offs.
+  
 **Limit exposure by geography**
 - The bank can reduce concentrations in states/regions with persistently higher default risk. We observe that the top three states with highest non-performing loan ratios are Nebraska, Nevada, and Alaska.
 - It is worth looking into these states to understand why the non-performing loan ratios are one of the highest so as to reassess whether to continue issuing loans in these states or evaluate the need for tightened credit standards.
@@ -45,6 +47,6 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/v
 This dashboard consists of a two layer structure:
 - The main dashboard consists of an overview of the performance of the loan portfolio for the loans issued in 2021, including key metrics such as loan application growth rate, loan yield, and charge-off rate. There is a monthly trend chart whereby user can filter by the total loan applications, total loan amount and total repayment amount to visualise the trend in terms of loan demand and loan revenue. 
 
-- The second dashboard focuses on loan segmentation, allowing users to examines the loan in more details whereby user can filter by the different loan status.
+- The second dashboard focuses on loan segmentation, allowing users to examines the loan and borrower background in more details whereby user can filter by the different loan status.
 
 <img width="812" alt="image" src="https://github.com/christinejiang11/rowhealth/assets/56368090/86756aa4-a0d8-44eb-a0d5-c128816f42ac">
