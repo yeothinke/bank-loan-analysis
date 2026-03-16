@@ -1,6 +1,6 @@
 # Bank Loan Analysis
 
-##Project Overview
+## Project Overview
 The goal of this project is to investigate the performance of the loan portfolio of a bank in order to manage risk and ensure profitability. 
 
 ## Dataset Structure
